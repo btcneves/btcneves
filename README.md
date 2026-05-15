@@ -1,58 +1,35 @@
 # 👋 Hi, I'm Neves
 
-💻 Backend-focused developer specialized in automation, real-time systems and application integration.
+Backend-focused software developer specialized in Python, automation, APIs, real-time systems, and Bitcoin Core integrations.
 
-I build practical, execution-driven solutions designed for performance, stability and continuous operation.
+I build practical, reliable, and maintainable solutions designed for performance, stability, and continuous operation.
 
 ---
 
-## 🚀 Tech Stack
-- **Python (primary)**
-- JavaScript
-- SQL
-- FastAPI
-- Automation (AutoHotkey / AutoIt)
-- REST APIs
-- System-level integration
+## 🚀 Focus Areas
+
+- Python backend development
+- FastAPI and REST APIs
+- Automation systems and bots
 - Real-time data processing
+- System and application integration
+- Bitcoin Core RPC/ZMQ
+- Docker-based development environments
+- Technical documentation and reproducible demos
 
 ---
 
-## 🧠 Core Expertise
-- Design and development of structured automation systems and bots
-- Real-time processing and decision-making logic
-- Integration between multiple services, APIs and system components
-- Performance optimization and long-running system stability
-- Low-level interaction with applications (process handling, UI automation)
+## ₿ Bitcoin Development & Cold Wallet Systems
 
----
+Focused on Bitcoin infrastructure, backend services, and secure wallet workflows.
 
-## ⚙️ What I Build
-- Automation pipelines and task orchestration systems  
-- Continuous execution bots with state control  
-- Backend services with dynamic data flow  
-- Integration layers between different systems and technologies  
+I build practical solutions around Bitcoin Core using RPC/ZMQ, regtest environments, mempool monitoring, UTXO handling, PSBT workflows, watch-only wallet flows, offline signing, and cold wallet concepts.
 
----
-
-## ₿ Bitcoin (Current Focus)
-Actively moving towards Bitcoin development, focusing on:
-
-- Integration with Bitcoin Core (RPC)
-- Real-time blockchain data processing (mempool & blocks)
-- Backend services connected to the Bitcoin network
-- Practical applications built on top of Bitcoin infrastructure
-
----
-
-## 📌 Professional Profile
-- 10+ years of consistent self-taught programming experience  
-- Strong problem-solving mindset focused on real-world scenarios  
-- Practical builder: from idea → implementation → optimization  
-- Experience working with automation, backend systems and integrations  
-- Currently advancing towards distributed and Bitcoin-based systems  
+My current work includes real-time node observability, transaction monitoring, secure USB/offline environments, and services connected directly to Bitcoin Core.
 
 ---
 
 ## 📫 Contact
+
 - GitHub: https://github.com/btcneves
+- LinkedIn: https://www.linkedin.com/in/btcneves
