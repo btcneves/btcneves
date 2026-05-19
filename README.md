@@ -6,6 +6,8 @@ I build practical, reliable, and maintainable software with a strong focus on **
 
 My work includes open-source projects around **Bitcoin Core observability, PSBT workflows, cold wallet systems, automation platforms, and internal administrative tools**.
 
+Open to opportunities in **Python backend development, FastAPI, APIs, automation, system integration, developer tools, and Bitcoin infrastructure**.
+
 ---
 
 ## 🚀 Focus Areas
@@ -25,7 +27,7 @@ My work includes open-source projects around **Bitcoin Core observability, PSBT 
 
 I build practical solutions around Bitcoin Core using **RPC, ZMQ, regtest environments, mempool monitoring, UTXO handling, PSBT workflows, watch-only wallet flows, offline signing, and cold wallet concepts**.
 
-My current work includes:
+Current focus:
 
 - Real-time Bitcoin node observability
 - Transaction and mempool monitoring
